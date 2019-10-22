@@ -1,4 +1,4 @@
-package com.tom.guess;
+package com.example.number2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.tom.guess", appContext.getPackageName());
+        assertEquals("com.example.number2", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.tom.guess;
+package com.example.number2;
 
 import org.junit.Test;
 
